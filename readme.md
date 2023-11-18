@@ -1,1 +1,1 @@
-#demir
+<img src="[ornek.jpg](https://cdn1.ntv.com.tr/gorsel/CDmFqIMgJkOtqCz5JZUC7Q.jpg?width=1000&mode=crop&scale=both)https://cdn1.ntv.com.tr/gorsel/CDmFqIMgJkOtqCz5JZUC7Q.jpg?width=1000&mode=crop&scale=both" alt="Örnek Resim"/>
